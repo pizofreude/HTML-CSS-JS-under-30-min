@@ -1,0 +1,57 @@
+/* This is how we comment in CSS */
+/* div = Div Style Tag */
+div{
+    /* color = Property | whitesmoke = Value */
+    color: whitesmoke;   /* Inline comment in CSS */
+    background: rebeccapurple;
+    font-size: 25px;
+    font-style: italic;
+    width: 300px;
+    height: 100px;
+}
+
+#box{
+    color: whitesmoke;
+    background: red;
+    font-size: 25px;
+    font-style: oblique;
+    width: 300px;
+    height: 70px;
+}
+
+.carton-1{
+    color: white;
+    background: yellow;
+    font-size: 25px;
+    font-style: normal;
+    width: 300px;
+    height: 70px;
+}
+
+.carton-2{
+    color: white;
+    background: blue;
+    font-size: 25px;
+    font-style: normal;
+    width: 300px;
+    height: 100px;
+    margin: 100px;
+    padding: 10px;
+    border: 2px solid green;
+    float: right;
+}
+
+.carton-3{
+    color: white;
+    background: rgb(37, 230, 56);
+    font-size: 25px;
+    font-style: normal;
+    width: 300px;
+    height: 80px;
+    margin: 10px;  /*Add space outside*/
+    padding: 10px;   /*Add space inside*/
+    border: 2px solid green;   /*Add border outside*/
+    position: absolute;  /*Default position is relative. With absolute we can fix via top, left & etc.*/
+    top: 600px;
+    left: 10px;
+}
