@@ -2,7 +2,7 @@
 
 HTML is the structure of our webpage.
 
-CSS is the style applied to the webpage.
+CSS is the style applied to the webpage thus making the web beautiful.
 
 ## 1. Inline Style
 

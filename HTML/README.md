@@ -2,6 +2,8 @@
 
 Learning HTML is basically learning about its tags and how to use them.
 
+HTML - The Structure of a Webpage.
+
 The commonly used <> tags are:
 
 1. HTML Skeleton:

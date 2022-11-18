@@ -1,5 +1,7 @@
 # 2 Ways to Add JS to HTML
 
+JavaScript - Programming the Web.
+
  ```js
  // This is how to comment in JavaScript
  ```
